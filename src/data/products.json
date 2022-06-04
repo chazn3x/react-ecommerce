@@ -1,0 +1,247 @@
+[
+    {
+        "name": "technology", 
+        "products": [
+            {
+                "name":"iPhone 13 Pro Max",
+                "price":1099.00,
+                "brand":"Apple",
+                "image":"iphone-13-pro-max.jpeg",
+                "description":"Our Pro camera system gets its biggest upgrade ever. With next-level hardware that captures so much more detail. Superintelligent software for new photo and filmmaking techniques. And a mind-blowingly fast chip that makes it all possible. It’ll change the way you shoot.",
+                "discount": 17
+            },
+            {
+                "name":"XBox Series X",
+                "price":499.99,
+                "brand":"Microsoft",
+                "image":"x-box.jpeg",
+                "description":"Introducing Xbox Series X, our fastest, most powerful console ever, designed for a console generation that has you, the player, at its center. Includes Xbox Series X console, and an option to add Xbox Game Pass Ultimate 3 Month Membership, select controllers and Microsoft Complete for Xbox. Limit 1 console per customer.",
+                "discount": 8
+            },
+            {
+                "name":"Logitech - G502",
+                "price":115.99,
+                "brand":"Logitech",
+                "image":"g502.jpeg",
+                "description":"Now you can game faster and more accurately. The iconic G502 now features superfast LIGHTSPEED 1 ms wireless connectivity.",
+                "discount": 0
+            },
+            {
+                "name":"AirPods Max",
+                "price":549.00,
+                "brand":"Apple",
+                "image":"air-pods.jpeg",
+                "description":"AirPods Max reimagine over-ear headphones. An Apple-designed dynamic driver provides immersive high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Active Noise Cancellation blocks outside noise, while Transparency mode lets it in. And spatial audio with dynamic head tracking provides theater-like sound that surrounds you.",
+                "discount": 6
+            },
+            {
+                "name":"LG - 65 Class C1 Series OLED 4K UHD",
+                "price":1799.99,
+                "brand":"LG",
+                "image":"lg.jpeg",
+                "description":"OLED at the top of its game. From the big game to being in the game, no detail goes unseen. With advanced gaming technology like NVIDIA G-SYNC, you'll crush the competition. Self-lit pixels emit their own light for perfect black, intense color and stunning picture—paired with our best processor for even better picture quality. Only on OLED.",
+                "discount": 0
+            },
+            {
+                "name":"MacBook Pro 16 - Apple M1 Pro chip - 16GB Memory - 512GB SSD - Space Gray",
+                "price":2499.00,
+                "brand":"Apple",
+                "image":"macbook-pro.jpeg",
+                "description":"The new MacBook Pro delivers game-changing performance for pro users. Choose the powerful M1 Pro or the even more powerful M1 Max to supercharge pro-level workflows while getting amazing battery life.And with an immersive 16-inch Liquid Retina XDR display and an array of pro ports, you can do more than ever with MacBook Pro.",
+                "discount": 20
+            },
+            {
+                "name":"GoPro - HERO10",
+                "price":499.99,
+                "brand":"GoPro",
+                "image":"gopro.jpeg",
+                "description":"Capture quality vlogs with this black GoPro HERO10 camera. The removable rechargeable 1720 mAh battery offers long shooting periods, while the rugged, waterproof design allows flexible use on different terrains. This GoPro HERO10 camera features a 1.4-inch screen for framing shots seamlessly, and the 23MP sensor captures 5.3K videos effortlessly.",
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "name": "books", 
+        "products": [
+            {
+                "name":"Harry Potter and the Philosopher's Stone",
+                "price":12.80,
+                "brand":"Bloomsbury",
+                "image":"harry-potter.jpeg",
+                "description":"Escape to Hogwarts with the unmissable series that has sparked a lifelong reading journey for children and families all over the world. The magic starts here. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. The magic starts here! These editions of the classic and internationally bestselling Harry Potter series feature thrilling jacket artwork by award-winning illustrator Jonny Duddle. They are the perfect starting point for anyone who's ready to lose themselves in the greatest children's story of all time",
+                "discount": 0
+            },
+            {
+                "name":"Thrawn",
+                "price":22.80,
+                "brand":"Del Rey Books.",
+                "image":"thrawn.jpeg",
+                "description":"In this definitive novel, readers will follow Thrawn’s rise to power—uncovering the events that created one of the most iconic villains in Star Wars history.",
+                "discount": 20
+            },
+            {
+                "name":"The Silmarillion",
+                "price":114.00,
+                "brand":"HarperCollins",
+                "image":"the-silmarillion.jpeg",
+                "description":"The Silmarillion is the core of J.R.R. Tolkien’s imaginative writing, a collection of narratives ranging in time from the Elder Days of Middle-earth, through the Second Age and the rise of Sauron, to the end of the War of the Ring.",
+                "discount": 10
+            },
+            {
+                "name":"Homo Deus: A Brief History of Tomorrow",
+                "price":26.94,
+                "brand":"Random UK",
+                "image":"homo-deus.jpg",
+                "description":"Yuval Noah Harari, author of the critically-acclaimed New York Times bestseller and international phenomenon Sapiens, returns with an equally original, compelling, and provocative book, turning his focus toward humanity’s future, and our quest to upgrade humans into gods.",
+                "discount": 15
+            },
+            {
+                "name":"Clean Code: A Handbook of Agile Software Craftsmanship",
+                "price":44.99,
+                "brand":"Prentice Hall",
+                "image":"clean-code.jpg",
+                "description":"Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+                "discount": 0
+            },
+            {
+                "name":"12 Rules for Life: An Antidote to Chaos",
+                "price":14.99,
+                "brand":" Random House Canada",
+                "image":"12-rules-for-life.jpg",
+                "description":"Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.",
+                "discount": 0
+            },
+            {
+                "name":"Cracking the Coding Interview: 189 Programming Questions and Solutions",
+                "price":39.95,
+                "brand":"CareerCup",
+                "image":"coding-interview.jpg",
+                "description":"Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.",
+                "discount": 39
+            }
+        ] 
+    },
+    {
+        "name": "clothing", 
+        "products": [
+            {
+                "name":"Nike Air Huarache",
+                "price":109.95,
+                "brand":"Nike",
+                "image":"nike.jpeg",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+                "discount": 5
+            },
+            {
+                "name":"Dr Martens 1460 8-eye",
+                "price":149.00,
+                "brand":"Dr Martens",
+                "image":"dr-martens.jpeg",
+                "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste itaque, cupiditate aspernatur corporis aperiam magnam dolorem pariatur architecto odio. Ut quod temporibus illo reiciendis! Minus, adipisci a.",
+                "discount": 0
+            },
+            {
+                "name":"The North Face street 5",
+                "price":25.00,
+                "brand":"The North Face",
+                "image":"north-face.jpeg",
+                "description":"Voluptate dicta quod alias odit quas deleniti. Sunt et possimus harum earum consectetur nam alias unde cumque, officiis esse, explicabo adipisci? Odit dolorem hic adipisci dolores doloribus, distinctio ducimus consequuntur.Sit ut temporibus molestias consequatur officia soluta earum qui natus sequi accusamus aliquid mollitia quod ipsa aut blanditiis asperiores distinctio dolore, aliquam ad, ducimus illo iusto. Voluptas porro esse ad!",
+                "discount": 25
+            },
+            {
+                "name":"Carhartt WIP",
+                "price":20.00,
+                "brand":"Carhartt",
+                "image":"carhartt.jpeg",
+                "description":"Temporibus deleniti delectus, harum quae deserunt ex voluptates corporis rem repellendus? Provident earum nemo aperiam",
+                "discount": 0
+            },
+            {
+                "name":"Tommy Jeans modern shorts",
+                "price":55.00,
+                "brand":"Tommy Hilfiger",
+                "image":"tommy.jpeg",
+                "description":"Odit dolorem hic adipisci dolores doloribus, distinctio ducimus consequuntur.Sit ut temporibus molestias consequatur officia soluta earum qui natus sequi accusamus aliquid mollitia quod ipsa aut blanditiis asperiores distinctio dolore, aliquam ad, ducimus illo iusto. Voluptas porro esse ad!",
+                "discount": 0
+            },
+            {
+                "name":"Love Moschino t-shirt",
+                "price":80.00,
+                "brand":"Moschino",
+                "image":"moschino.jpeg",
+                "description":"Quaerat, excepturi optio velit inventore minima facilis non magnam saepe ab sed expedita maiores explicabo, praesentium neque voluptates iusto culpa unde atque cumque doloribus esse ut dignissimos! Omnis, fuga eos.",
+                "discount": 15
+            },
+            {
+                "name":"Wilton Chelsea wellington boot",
+                "price":49.95,
+                "brand":"Barbour",
+                "image":"barbour.jpeg",
+                "description":"Nam laborum fuga labore ipsam animi natus necessitatibus at pariatur itaque",
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "name": "home", 
+        "products": [
+            {
+                "name":"Jeanneret 053 Capitol Complex Armchair",
+                "price":4465.00,
+                "brand":"Cassina",
+                "image":"jeanneret-053.jpeg",
+                "description":"053 Capitol Complex armchair is part of the Hommage À Pierre Jeanneret collection by Cassina, created in honour of the designer and cousin of the master Le Corbusier.",
+                "discount": 40
+            },
+            {
+                "name":"Air Table Wildwood Natural",
+                "price":2011.10,
+                "brand":"Lago",
+                "image":"air-wildwood.jpeg",
+                "description":"Air Wildwood is a table by LAGO with closed heads, it is characterized as a table light and warm",
+                "discount": 0
+            },
+            {
+                "name":"Eames Plastic Side Chair DSW - Maple Yellowish Base",
+                "price":375.52,
+                "brand":"Vitra",
+                "image":"eames-plastic.jpeg",
+                "description":"Eames Plastic Side Chair DSW is one of the most famous chairs by Charles & Ray Eames for Vitra. The wood base is in yellowish maple wood base with steel cross struts in basic dark. Shell in polypropylene.",
+                "discount": 20
+            },
+            {
+                "name":"Etoilè Sparkle Glass",
+                "price":68.90,
+                "brand":"Italesse",
+                "image":"etoil-sparkle.jpeg",
+                "description":"Glass for sparkling wine and Champagne, designed for the professional tasting and made of crystal glass with pull-stem technology. A glass for champagne by perfectly matched and balanced proportions, characterized by a cup that is reminiscent of Champagne and a height of the cup inspired to flute body.",
+                "discount": 0
+            },
+            {
+                "name":"Le Bambole - Bibambola Sofa",
+                "price":6175.00,
+                "brand":"B&B Italia",
+                "image":"bibamboladivano.jpeg",
+                "description":"The Bibambola sofa is part of the Le Bambole collection, a 1972 Mario Bellini project that celebrates 50 years of success with B&B Italia. Award-winning and awarded the Compasso d'Oro award in 1979, le Bambole are an expression of timeless international design.",
+                "discount": 0
+            },
+            {
+                "name":"Bolide Bar Cabinet",
+                "price":4225.00,
+                "brand":"Arketipo",
+                "image":"bolide-mauro.jpeg",
+                "description":"Bolide is a bar cabinet designed by Mauro Lipparini for the Italian brand Arketipo. Made of veneered MDF available in different colors and built-in internal lighting.",
+                "discount": 5
+            },
+            {
+                "name":"Noonu Bed",
+                "price":4145.00,
+                "brand":"B&B Italia",
+                "image":"noonu-bed.jpeg",
+                "description":"Noonu is a project that brings back to well-being, an oasis of relaxation designed by Antonio Citterio for B&B Italia. The bed has the characteristic metal profile at the base and an enveloping and elegant headboard.",
+                "discount": 0
+            }
+        ]
+    }
+
+]
