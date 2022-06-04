@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.c8724d93.css",
+    "main.js": "/react-ecommerce/static/js/main.5ea994aa.js",
+    "static/media/macbook-pro.jpeg": "/react-ecommerce/static/media/macbook-pro.b847df6e7e6ff3d58b8e.jpeg",
+    "static/media/iphone-13-pro-max.jpeg": "/react-ecommerce/static/media/iphone-13-pro-max.d18ddf2f193f7e3bacda.jpeg",
+    "static/media/the-silmarillion.jpeg": "/react-ecommerce/static/media/the-silmarillion.9602cc5ab6b002832d63.jpeg",
+    "static/media/bolide-mauro.jpeg": "/react-ecommerce/static/media/bolide-mauro.25c54b89aa39e968ad59.jpeg",
+    "static/media/bibamboladivano.jpeg": "/react-ecommerce/static/media/bibamboladivano.e7e055cc9fea1c423345.jpeg",
+    "static/media/noonu-bed.jpeg": "/react-ecommerce/static/media/noonu-bed.4bec87fafc50477aa57c.jpeg",
+    "static/media/lg.jpeg": "/react-ecommerce/static/media/lg.4e9348b78625f56a2ed2.jpeg",
+    "static/media/jeanneret-053.jpeg": "/react-ecommerce/static/media/jeanneret-053.401139cebdb82507b461.jpeg",
+    "static/media/moschino.jpeg": "/react-ecommerce/static/media/moschino.0f603988e3c5ea14e37b.jpeg",
+    "static/media/thrawn.jpeg": "/react-ecommerce/static/media/thrawn.a32fe71eeffed38b67d5.jpeg",
+    "static/media/gopro.jpeg": "/react-ecommerce/static/media/gopro.9a7659e43f30fbd316b3.jpeg",
+    "static/media/coding-interview.jpg": "/react-ecommerce/static/media/coding-interview.9f448a01d9ca54a667b2.jpg",
+    "static/media/x-box.jpeg": "/react-ecommerce/static/media/x-box.fdc84fe645925cfd2d49.jpeg",
+    "static/media/homo-deus.jpg": "/react-ecommerce/static/media/homo-deus.e70e5c0efe6d57be46fe.jpg",
+    "static/media/air-wildwood.jpeg": "/react-ecommerce/static/media/air-wildwood.55a7907a3ce536fa64fb.jpeg",
+    "static/media/air-pods.jpeg": "/react-ecommerce/static/media/air-pods.6b80700bf6d8e00287c0.jpeg",
+    "static/media/harry-potter.jpeg": "/react-ecommerce/static/media/harry-potter.c89e7623d500b7ce71af.jpeg",
+    "static/media/ellesse.jpeg": "/react-ecommerce/static/media/ellesse.a4a667e64fe69ec2ddcf.jpeg",
+    "static/media/nike.jpeg": "/react-ecommerce/static/media/nike.ea3cca2016ec21b131d2.jpeg",
+    "static/media/g502.jpeg": "/react-ecommerce/static/media/g502.db7d94d8c6443fb19803.jpeg",
+    "static/media/clean-code.jpg": "/react-ecommerce/static/media/clean-code.b26ffdc03104383c2f91.jpg",
+    "static/media/12-rules-for-life.jpg": "/react-ecommerce/static/media/12-rules-for-life.18cb29cf2ef59a006fab.jpg",
+    "static/media/eames-plastic.jpeg": "/react-ecommerce/static/media/eames-plastic.98c7cf5b0af000aeff4a.jpeg",
+    "static/media/north-face.jpeg": "/react-ecommerce/static/media/north-face.391bf23471311ab3c05d.jpeg",
+    "static/media/carhartt.jpeg": "/react-ecommerce/static/media/carhartt.7ccb42b158d9195f6bec.jpeg",
+    "static/media/barbour.jpeg": "/react-ecommerce/static/media/barbour.a7b5c4e5fef52a551646.jpeg",
+    "static/media/etoil-sparkle.jpeg": "/react-ecommerce/static/media/etoil-sparkle.8902f1a1b1ffd2089eb4.jpeg",
+    "static/media/tommy.jpeg": "/react-ecommerce/static/media/tommy.50388edf1f21b6757fe8.jpeg",
+    "index.html": "/react-ecommerce/index.html",
+    "main.c8724d93.css.map": "/react-ecommerce/static/css/main.c8724d93.css.map",
+    "main.5ea994aa.js.map": "/react-ecommerce/static/js/main.5ea994aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8724d93.css",
+    "static/js/main.5ea994aa.js"
+  ]
+}
